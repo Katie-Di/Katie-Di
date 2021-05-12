@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Katie-Di
 - 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science
-- 🌱 I’m currently learning Python with Leetcode Medium Collection Top Interview Quesions and taking part in April Leetcoding challenge
+- 🌱 I’m currently learning Python with Leetcode Medium Collection Top Interview Quesions and taking part in May Leetcoding challenge
 - 💞️ I’m looking to collaborate on any project on Python
 - 📫 How to reach me https://www.linkedin.com/in/didenkova/
 
